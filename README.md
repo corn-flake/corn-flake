@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evan
+- 👋 Hi, I’m Hazel
 - 👀 I’m interested in contributing more to free software to learn more about coding and improve the free software world. 
 - 🌱 I’m currently learning python, javascript and C.
 - 💞️ I’m looking to collaborate on Clipgrab because I noticed a typo in the donation message
