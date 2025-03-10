@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evan
 - 👀 I’m interested in contributing more to free software to learn more about coding and improve the free software world. 
-- 🌱 I’m currently learning python, javascript and C.
+- 🌱 I’m currently learning about programming language design
 - 📫 How to reach me - evancooney71@gmail.com
 
 <!---
